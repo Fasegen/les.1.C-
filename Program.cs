@@ -66,3 +66,4 @@ double a = Math.Sqrt(Math.Pow(A[0]-B[0], 2) + Math.Pow(A[1]-B[1], 2) + Math.Pow(
 Console.WriteLine(a);
 
 
+-
